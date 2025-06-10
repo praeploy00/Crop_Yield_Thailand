@@ -1,7 +1,8 @@
 # Dataset: Crop YieldThailand
 
 This repository contains the dataset used in the publication:
-A Century of Yield Dynamics of Major Crops in Thailand: Regional Patterns of Growth, Stagnation, and Climate Sensitivity
+A Century of Yield Dynamics of Major Crops in Thailand: Regional Patterns of Growth, Stagnation, and Climate Sensitivity.
+
 Authorship: Praeploy Kongsurakan, Tomomichi Kato, Li Xinli, Tatsuki Nakagawa, Azusa Suzuki
 
 
