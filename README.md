@@ -18,4 +18,4 @@ For questions or further information, please contact:
 
 **Praeploy Kongsurakan**    
 Email: praeploy.kong@hotmail.com  
-ORCID: 
+ORCID: https://orcid.org/0000-0001-8359-274X
