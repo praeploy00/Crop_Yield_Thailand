@@ -10,7 +10,8 @@ Authorship: Praeploy Kongsurakan, Tomomichi Kato, Li Xinli, Tatsuki Nakagawa, Az
 - `Crops_Yield_Thailand.csv`  
   A CSV file containing data used for the analysis in the study. This includes annual yield of rice, maize, and soybean in each province of Thailand.
 - `Thailand_province_definition.csv` provides definition of Monthon (Before 1931) and modern province administration (after 1931) of Thailand.
--   
+- `yield_dlm_Thailand.csv`
+- A CSV file containing result of Dynamic Linear model (DLM) for crops yield over a century of Thailand.
 
 ## 📬 Contact
 
