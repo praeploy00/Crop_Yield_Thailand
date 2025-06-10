@@ -12,10 +12,6 @@ Authorship: Praeploy Kongsurakan, Tomomichi Kato, Li Xinli, Tatsuki Nakagawa, Az
 - `Thailand_province_definition.csv` provides definition of Monthon (Before 1931) and modern province administration (after 1931) of Thailand.
 -   
 
-## 📄 License
-
-This dataset is shared under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. You are free to use, share, and adapt the material, provided appropriate credit is given.
-
 ## 📬 Contact
 
 For questions or further information, please contact:
